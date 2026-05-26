@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (in case any helper scripts are added later)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build / output
+*.log
+*.tmp
+*.bak
+
+# Local scratch
+scratch/
+_scratch/
+notes.local.md
