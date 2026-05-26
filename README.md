@@ -2,7 +2,10 @@
 
 A versioned, corpus-grounded research-ideation system for Indian high-school students working toward publishable scientific projects. Deployed as a per-student Claude Project. Built and maintained solo at Athena Education.
 
-Companion repository: [adhvaryu-athena/nhsjs-tools](https://github.com/adhvaryu-athena/nhsjs-tools) — the production-shipped submission-formatter component of this toolkit.
+**Repositories**
+
+- This toolkit: [github.com/adhvaryu-athena/pangea-toolkit](https://github.com/adhvaryu-athena/pangea-toolkit)
+- Submission-formatter component: [github.com/adhvaryu-athena/nhsjs-tools](https://github.com/adhvaryu-athena/nhsjs-tools)
 
 ---
 
